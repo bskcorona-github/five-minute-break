@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">5分休憩タイマー</string>
+    <string name="title_activity_main">5分休憩タイマー</string>
+    <string name="package_name">com.fiveminutebreak.app</string>
+    <string name="custom_url_scheme">com.fiveminutebreak.app</string>
+</resources>
